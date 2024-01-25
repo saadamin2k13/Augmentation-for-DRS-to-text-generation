@@ -1,0 +1,215 @@
+Tom is a male living in Boston.
+Tom has booked 3000 books now.
+A female likes a short skirt now.
+The number 3 is the theme of the number 5 five times.
+If a person does not live on an island, it is possible.
+George Walker Bush, a male, was born in Connecticut in 1946.
+Tom is ironing pants now.
+The entity is totally a secret now.
+The value of the attribute is unknown now.
+The hearer smells the cigarette now.
+A female is buying a vacuum cleaner from the supermarket right now.
+Tom, a male, is possibly getting a book now.
+Tom, a male, is donating blood now.
+Someone is voting now.
+Tom, a male, is brushing his hair now.
+If an elephant has a long nose, it has a long nose.
+The speaker is stealing money now.
+A woman is playing the flute now.
+The speaker is a dancer now.
+The speaker is cooking dinner now.
+The dog is nipping the speaker right now.
+If the speaker is tired now.
+The casino is causing the speaker to lose money now.
+The bathtub is overflowing now, and a female is talking on the phone.
+Susan, a female, is shining her shoes right now. Her father, a person, is a user of her shoe.
+The speaker arrived just now, measuring two days.
+There is a possibility that the speaker does not stop right now.
+It is not possible that the speaker stops loving hot dogs now.
+The lake is deep now.
+Ted, a male, loves Elizabeth, his wife, right now.
+"Reinventing Comics" is a book created by Scott McCloud, a male.
+The default value of the theme is zero, and it exists right now.
+Tom, a male, is twirling a basketball using his finger.
+A female has hired a private investigator, and this event is taking place at the current moment.
+A person with the role of a firefighter is putting out a fire.
+The speaker, who is male, hates fire right now.
+The speaker is currently thirsty.
+A female is scoffing at a poem created by the speaker.
+Tom, a male, currently lives in Boston, which is a city.
+Taninna, a female, is looking pale at the moment.
+There is no blackbird; the bird is black.
+The speaker is currently painting the house, and the house is green in color.
+The train is leaving now at 14:30.
+A male is making a bookshelf for a female.
+Thomas Edison, a male, invented the light bulb.
+A female person, whose father is a pianist, is an excellent pianist.
+If a person shakes their hand now, it is the consequence.
+The hearer has the possibility to whistle now.
+The speaker, at the present time, is milking the goat.
+A female is currently washing the carpet.
+A male is sharpening the knife now.
+The speaker thinks about a proposition at the moment. The proposition is that a male is eating 10 oysters.
+Tom, a male, is currently at the hospital.
+The speaker is from Sweden.
+A person, identified as a nuisance, is associated with a child. The person is currently with the child.
+The cost of the entity referred to by x1 is presupposed to be now and is equal to 10,000 yen per unit.
+Now, the old man referred to by x1 is capturing a big fish.
+A male is drinking orange juice from a bottle.
+A soccer ball weighs something, but the quantity is not specified.
+The speaker is going to the store.
+A male is baking muffins.
+A female is absorbed in knitting.
+A tree has stopped growing.
+The speaker is chopping down a tree.
+Tom is brushing his tooth.
+At 6:00 PM, the speaker picked up the hearer.
+The speaker is visiting a huge amusement park in São Paulo at the present time.
+The animal is currently grazing in a field.
+A female currently needs a coat.
+The speaker has just written a poem at the present time.
+Ken, a male, is currently fined 7,000 yen for speeding.
+A child is currently bored at the present time.
+The location of the lake is to the east of the village at the present time.
+The operation is currently accompanying a quantity of pain at the present time.
+There is a precondition for the current time regarding rain. It is currently not coming for the male.
+The presupposition is that the hearer, who is a male, wants something at the present time.
+Tom, a male, is currently walking his dog at the present time.
+Samuel, a male, and the speaker are both currently present at the same time.
+Tom is getting ice cream out of the freezer at the present time.
+It is necessary for the hearer to tell a joke at the present time.
+The hearer is currently wearing a sweater inside out at the present time.
+the speaker is not happy. However, my look (appearance) is happy.
+It is possible for the speaker to borrow the hair dryer.
+At the present time, I am fed up with him, a male.
+It is not the fault of the entity that is a sub-category of something else, as of now.
+The theme of the injection is a radioactive substance, which is currently unknown. Eda Charlton, a female, is the destination for the injection. This event occurred in the year 1945.
+The hearer (you), who is a female, is currently googling something at the present time.
+The speaker knows the question, 'Where is the watcher?' with the presupposition that the watcher is in the same location as the speaker now.
+Cristina, a female, dreams of studying medicine now as Luis, a male, is a sub of her with two quantities, 1 and 2, where 1 is a sub of 2.
+In the present moment, she admires with a positive measure as she is an experiencer and a female.
+The person, a hunter, shoots a bear now.
+Now, a dinner takes place at the White House, an official location.
+The fly buzzes.
+Now, a female deposits a box on the table.
+The speaker is now reading a letter.
+The pond dries up now.
+Now, the hearer does not have the number.
+Now, the speaker does not climb Mt. Fuji.
+The speaker is currently happy.
+The speaker now warns him, a male, but he ignores the warning.
+Tom, a male, is now kidnapped by a person who is a terrorist.
+The supermarket now hires a person, a part-timer.
+There is a room, and it is tidy now.
+A doctor is examining a patient now.
+The planet Uranus is similar to the planet Neptune.
+The speaker is going to a restaurant.
+Someone old is dead now. His name was Howard Caine.
+A boy does not fear anything now.
+Sue, a female, picked up a pencil from the floor now.
+A male has a book now.
+The speaker is in Georgia now. Georgia is a country.
+The chair is made of plastic and it is cheap now.
+A female is taking a protein shake now.
+The speaker's flight arrives at 14:30.
+Tom, a male, appears outraged now.
+The topic is Harry Potter, a male, who is a book.
+Bob, a male, is very happy now.
+Tom, a male, is working with clay now and making a vase.
+The speaker stops babbling now.
+The speaker hates peanut butter now.
+A person who is a truck driver is with the speaker now.
+A tooth, which is part of the speaker, has decayed.
+A male leaves for 10 minutes now.
+The female is not a good cook.
+Tom, a male, weighs 90 kilograms.
+There is a possibility that the speaker stands and there is noise.
+The speaker's foot is cold now.
+There is a male person, who is a teacher, receiving a bow now.
+The speaker runs into a female on the street.
+Tom, a male, is suffering now.
+The speaker is busy and helps a female.
+A female is very tall now.
+An old castle is a part of the speaker.
+The speaker strikes a wall with the speaker's fist.
+The speaker accompanies someone to a hospital.
+There is one god, which is a sub-entity of a country named Egypt.
+Tom, a male, buys a rug from Persia.
+The speaker wants a potato.
+A person's mom spreads something on the table.
+There is a camel, and it has a hump now. The hump has a quantity of 1 or 2.
+There is a female person who hits something now. The thing she hits is a jackpot.
+The speaker hears someone speaking Georgian.
+Something is a movie theater, and it is located in a city.
+Nebraska is a state, and it is located on a plain.
+A brake pad is made of a material.
+The hearer opens a book to page 9.
+If a person is small, then they are called "Tora".
+Tom, a male, is dice-ing a carrot now. In continuation, he adds it to a stew.
+A bull is mooing now.
+John Kerry, a male born in 1943, bears a male in Colorado.
+A tennis court is located in a park.
+Tom, a male, is plastered.
+The speaker does not receive something important now.
+Money is a stimulus for something important to the hearer.
+Millie, a female, is not eating an apple now.
+The speaker's handkerchief is wet.
+The speaker is on a diet.
+The speaker makes a cookie now.
+The speaker feels sick after eating fast food.
+The speaker bears something on the 23rd of March 1969. The location is Barcelona, a city.
+Is there a person? The person is referred to as Nostradamus, and he is male.
+Maler is a male who retired in 1905.
+There is a female who loves something now. The stimulus of her love is a male.
+A man is playing the guitar now.
+The remains of a dinosaur are found in Asia.
+Tom, a male, is in an office.
+An exam lasts for 2.5 hours.
+A female is running away now. She runs away in tears, and the location of the event is her eye.
+Now, the hearer knows that a person is in Boston. The city is mentioned in the context.
+A female dog is sniffing a stick in the fire.
+Tom, a male, is not jealous.
+The speaker is listening to a song.
+The speaker kidnaps someone.
+The speaker and the hearer are visiting someone.
+Tom, a male, wipes a table.
+The hearer, who can fly, is now in a state of being open.
+A female dog is sniffing a stick in the fire.
+Tom, a male individual, may not have pronounced Mary's name, as the presupposition suggests that Mary is a female, and her last name is not mentioned.
+The computer, characterized as damned by the attribute, is not working now, as indicated by the presupposition and the negation.
+Is there a female real estate agent named Tom?
+Tom, a male, joins a political party.
+A person steals something. The owner is the speaker, and it is a driving license.
+Is there a pasture? The pasture has an area of 10 acres.
+A male is ill.
+Tom is currently awake.
+The speaker and someone else are meeting now in January. The other person is male.
+The bolt fits the nut now.
+The male is not studying now.
+Tom dropped the glass now.
+The river runs through Dublin now.
+Tom peeled the potato now.
+The female is dishonest now.
+The speaker eats fruit now because they are hungry.
+Where is the location Kazem Radjavi was assassinated.
+Tom has athlete's foot now.
+The male is allergic to the cat now.
+Kraft company is selling Celestial Seasonings to Lipton in 1986.
+The man is not climbing the mountain now.
+Lucy fired Mary now.
+The speaker is learning Chinese now.
+Althea Gibson is a female now.
+Tom patted his dog now.
+The traffic jam lasted for one hour now.
+The male speaks English now.
+It is now time for the hearer to be naughty.
+Tom is now busy.
+An entity employs 180 persons now.
+The speaker is interested in music now.
+The aircraft takes off now.
+The speaker's name is now Paola.
+A person is now seated at a table in the restaurant.
+A prince now slays a dragon.
+The speaker does not see anything strange.
+The female now has Parkinson's disease.
+Nancy Ianiero, a female, has a continuation where Domenic Ianiero, a male, is now associated with the current time. The theme related to Nancy Ianiero, at the current time, involves having something, and that something is related to Canada, the country of origin for Nancy Ianiero's theme, and Canada is also the country from which the theme of Domenic Ianiero originates, and Nancy Ianiero has Canadian citizenship.
