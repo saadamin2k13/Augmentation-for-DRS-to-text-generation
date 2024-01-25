@@ -1,4 +1,4 @@
-description of the folders
+## Description of the folders
 
 A. For Proper Noun Augmentation:
     po_noun = proper noun augmentation outside the dataset. 
@@ -13,3 +13,5 @@ B. For Common Noun Augmentation:
 C. Proper Noun with Common Noun
     pn_with_cn = proper noun outside context with common noun outside context with supersense dataset.
 
+**This folder also contains scripts to remove word alignment and command descriptions from the original DRS.**
+    
