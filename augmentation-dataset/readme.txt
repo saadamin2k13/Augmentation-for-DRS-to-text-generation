@@ -1,5 +1,5 @@
-In this folder, we have dataset files incliuding
+In this folder, we have dataset files including
 
-1. Gold-PMB without augmentation (with standard train, dev, test) splits.
-2. Proper Nouns (both for inside and outside the context)
-3. Common Nouns (including all the flavors of inside/outside, with/without supersense)
+1. gold-pmb-original: this folder contains original PMB-3.0.0 dataset files without augmentation and having standard train, dev, test splits.
+2. pre-training-dataset: this folder contains all flavors of PN and CN augmentations used in our char-based and word-based bi-LSTM models.
+3. fine-tuning-dataset: for fine-tuning a transformer model, we have to perform extra pre-processing on DRS representations. This folder contains dataset files with all flavors of augemntation for byT5. 
