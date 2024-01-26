@@ -1,7 +1,7 @@
 import re
 word_list = {
 
-  # place your extracted and replacable common nouns in the form of dictionary here:
+  # place your extracted and replaceable common nouns in the form of a dictionary here:
   # 'original-noun' : 'replaceable-noun'
               }
 with open('./gold-pmb-original/train-original.txt.raw') as main, open(
