@@ -37,3 +37,6 @@ Here, we include:
 <img width="790" alt="Screenshot 2024-01-26 at 11 38 37" src="https://github.com/saadamin2k13/Augmentation-for-DRS-to-text-generation/assets/95033722/6a121423-f652-494c-a169-5c282051ce54">
 
 
+### Contributors
+Muhammad Saad Amin, Luca Anselma, Alessandro Mazzei
+
